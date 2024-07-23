@@ -45,7 +45,7 @@ $add btc 4h 0 34 3000 2 1
 ```
 
 
-## Getting Started
+# Getting Started
 
 1. Clone the Repo
 ```shell
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 5. Run `main.py` to start the bot. Use `$help` to view the list of all commands.
 
-## How does it work?
+# How does it work?
 <img width="1889" alt="hlBot Diagram" src="https://github.com/user-attachments/assets/1700eb13-928c-48ee-87a0-8bce5f1cd6a0">
 
 # Contributing
