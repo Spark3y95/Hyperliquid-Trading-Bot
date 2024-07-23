@@ -13,7 +13,7 @@ This bot is designed to automate and streamline your trading experience on Hyper
 - **Reduced Human Error:** Removes the influence of human emotions and the need to constantly monitor charts, leading to more consistent and reliable trading outcomes.
 - **Live Alerts:** Receive instant notifications whenever a position is opened or closed, keeping you continuously informed about your trading activities without needing to constantly monitor the bot.
 
-  ## Commands
+# Commands
 
 | **Command**   | **Usage**                                                                                                               | **Description**                                                                                           |
 |---------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
