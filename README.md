@@ -9,9 +9,9 @@ This bot is designed to automate and streamline your trading experience on Hyper
  - **Enhanced Speed:** Faster Experience lower latency and faster order placements compared to manual UI-based trading.
 
 ## Automated Trading
-- **Strategy Automation:** Automate trading strategies with detailed control over parameters like assets, timeframes, stop-loss settings, and moving averages. The settings can be adjusted in real-time to match the changing market conditions. 
+- **Strategy Automation:** Automate a trading strategy with detailed control over parameters like assets, timeframes, leverage, and moving averages. The strategy is based on [Hull Suite](https://www.tradingview.com/script/hg92pFwS-Hull-Suite/).
 - **Reduced Human Error:** Removes the influence of human emotions and the need to constantly monitor charts, leading to more consistent and reliable trading outcomes.
-- **Live Alerts:** Receive instant notifications whenever a position is opened or closed, keeping you continuously informed about your trading activities without needing to constantly monitor the bot.
+- **Live Alerts:** Receive instant notifications via discord webhook whenever a position is opened or closed, keeping you continuously informed about your trading activities.
 
 # Commands
 
