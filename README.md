@@ -66,5 +66,7 @@ pip install -r requirements.txt
 ## How does it work?
 <img width="1889" alt="hlBot Diagram" src="https://github.com/user-attachments/assets/1700eb13-928c-48ee-87a0-8bce5f1cd6a0">
 
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
