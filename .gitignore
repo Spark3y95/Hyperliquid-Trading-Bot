@@ -1,6 +1,0 @@
-.venv/
-config_prod.json
-config_testing.json
-config.json
-r.txt
-./dockerfile
