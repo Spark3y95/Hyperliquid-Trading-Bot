@@ -1,0 +1,9 @@
+{
+    "secret_key": "run encryptSecretKey.py to generate this",
+    "account_address": "Optional",
+    "exchange": "bybit",
+    "webhook": "entire discord webhook link",
+    "token": "discord token here"
+}
+
+// rename file to config.json and remove this comment
