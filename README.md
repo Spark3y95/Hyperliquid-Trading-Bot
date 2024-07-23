@@ -61,6 +61,6 @@ pip install -r requirements.txt
 
 4. Run `encryptSecretKey.py` and input the private key of your wallet and the secret. This secret/password will be used to initialize the bot using the command `$start <password>` when it starts. This is a security measure to avoid placing naked private keys on a vps.
 
-5. Run `main.py` to start the bot.
+5. Run `main.py` to start the bot. Use `$help` to view the list of all commands.
 
 ## How it Works
